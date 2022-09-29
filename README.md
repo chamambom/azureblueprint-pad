@@ -22,13 +22,13 @@ Steps
 4) If its successful , "you wont see any errors " (::)
 5) Navigate to your azure portal management groups and execute the following
    - publish your blue print 
-   - Assign your blueprint 
+   - Assign your blueprint
+   - Strip any resources you dont need (deploy only what is necessary) 
 
 6) to be continued [will sanitise this as i play with azure blueprints]
 
 ### TODO
 
-- Find a way to extract the tenant and subscription ID 
-- programmatically using powershell or AzureCLI
+- Find a way to extract the tenant and subscription ID programmatically using powershell or AzureCLI
 - Find a way to use a managed service or service principal account
--
+-Explore deployment through terraform.
