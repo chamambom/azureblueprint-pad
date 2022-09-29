@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 ### Deploying azure the azure Cloud Adoption Framework Blueprint 
 ## Pre-requisites 
 ### Make sure you have powershell and Az modules on your laptop to enable you to connect to the customer subscription via the Connect-Az command
 ### Run the Connect-Az command first then follow the steps below
+=======
+Deploying azure the azure Cloud Adoption Framework Blueprint 
+Pre-requisites 
+## Make sure you have powershell and Az modules on your laptop to enable you to connect to the customer subscription via the Connect-Az command
+## Run the Connect-Az command first then follow the steps below
+>>>>>>> 44f6768d3a1aec7eee4654f7278de156ede4d5d0
 
 Steps 
 
@@ -24,6 +31,11 @@ Steps
 
 TODO
 
+<<<<<<< HEAD
 - Find a way to extract the tenant and subscription ID 
 - programmatically using powershell or AzureCLI
 - Find a way to use a managed service or service principal account
+=======
+#Find a way to extract the tenant and subscription ID #programmatically using powershell or AzureCLI
+Find a way to use a managed service or service principal account
+>>>>>>> 44f6768d3a1aec7eee4654f7278de156ede4d5d0
