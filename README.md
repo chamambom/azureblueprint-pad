@@ -20,7 +20,7 @@ Steps
         - comment out these lines - "see the commented out code" in the blueprint.ps1 powershell file
 
 4) If its successful , "you wont see any errors " (::)
-5) Navigate to your azure portal and execute the following
+5) Navigate to your azure portal management groups and execute the following
    - publish your blue print 
    - Assign your blueprint 
 
