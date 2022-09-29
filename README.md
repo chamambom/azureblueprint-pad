@@ -1,7 +1,7 @@
-### Deploying azure the azure Cloud Adoption Framework Blueprint 
-## Pre-requisites 
-### Make sure you have powershell and Az modules on your laptop to enable you to connect to the customer subscription via the Connect-Az command
-### Run the Connect-Az command first then follow the steps below
+## Deploying the Azure Cloud Adoption Framework Blueprint 
+### Pre-requisites 
+    - Make sure you have powershell and Az modules on your installed on your laptop to enable you to connect to the customer subscription via the Connect-Az command
+    - Run the # Connect-Az command first then follow the steps below
 
 Steps 
 
