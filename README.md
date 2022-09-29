@@ -21,9 +21,10 @@ Steps
 
 4) If its successful , "you wont see any errors " (::)
 5) Navigate to your azure portal management groups and execute the following
+   - Strip any resources you dont need (deploy only what is necessary)
    - publish your blue print 
-   - Assign your blueprint
-   - Strip any resources you dont need (deploy only what is necessary) 
+   - Assign your blueprint to your subscription
+    
 
 6) to be continued [will sanitise this as i play with azure blueprints]
 
